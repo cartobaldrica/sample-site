@@ -1,0 +1,32 @@
+h1{
+	color:blue;
+}
+body,p,h1,h2,a{
+	margin:0;
+	color:white;
+}
+.hover:hover{
+	border:2px black solid;
+}
+img{
+	width:100%;
+	border:2px blue solid;
+}
+.row{
+	background-color:green;
+	margin-top:10px;
+}
+/*.image-container{
+	position:relative;
+}
+.image-desc{
+	display:none;
+	position:absolute;
+	bottom:0;
+}
+.image-container:hover{
+	opacity:0.5;
+}
+.image-container:hover .image-desc{
+	display:block;
+}*/
